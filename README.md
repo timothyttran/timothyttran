@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi my name is Timothy! I'm an incoming student at the University of Washington studying Ccomputer science.
 
 <!--
 **timothyttran/timothyttran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
