@@ -1,5 +1,4 @@
-### Hi my name is Timothy! I'm an incoming student at the University of Washington studying computer science.
-
+### Hi my name is Timothy! I'm a student at the Paul G. Allen school of Computer Science at the University of Washington.
 <!--
 **timothyttran/timothyttran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
